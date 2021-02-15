@@ -96,3 +96,11 @@ from pathlib import Path
 
 
 # Graded Assignment
+
+# 1
+numeros = [7, 3, 2, 13, 44, 3, 30, 47, 28, 10, 4, 12, 7, 32, 21, 32, 44, 2, 36, 9, 26, 
+           6, 29, 36, 49, 11, 8, 42, 26, 20, 6, 16, 38, 26, 19, 26, 8, 22, 14, 10, 30, 
+           41, 42, 10, 4, 9, 2, 18, 44, 12]
+
+maiores10 = list(filter(lambda num : num > 10, numeros))
+print(maiores10)
