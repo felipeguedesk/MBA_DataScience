@@ -1,4 +1,0 @@
-conteudo do arquivo
-test2.txt para ser
-utilizado como teste para a
-classe construida
